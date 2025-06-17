@@ -1,8 +1,0 @@
-{
-    "limit": 100,
-    "countdown": 300,
-    "country_time": "en-US",
-    "isBoost": true,
-    "delayEachAccount": [1, 81]
-  }
-  

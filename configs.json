@@ -1,0 +1,7 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "isBoost": true,
+  "delayEachAccount": [1, 1],
+  "connectWallet": true
+}
